@@ -65,8 +65,6 @@ For a rough idea of the user interface, see Figure 1.
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
-List of Classes:
-
 Tree Class:
 
 Node Class:
