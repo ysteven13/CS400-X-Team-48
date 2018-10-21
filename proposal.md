@@ -43,7 +43,7 @@ Auto-complete
 2. Output: Describe the output your program will produce.  Include an example format of the output produced.
 
 Our program would produce 3 options to complete a given word, with the shortest option being the first.
-[Sample](https://imgur.com/a/CBhtsfa)
+*See figure 1
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
@@ -69,4 +69,5 @@ Name each interface or class and briefly describe its function or purpose.
 
 
 ## Edit and Submit this file and any figures referenced by this document.
-
+*Figure 1
+![alt text](https://i.imgur.com/Lx5o35O.jpg)
