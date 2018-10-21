@@ -10,7 +10,7 @@
        * GitHub username 1: ysteven13            name 1:Steven Yao
        * GitHub username 2: makpls               name 2:John Mak
        * GitHub username 3: TheSre               name 3:Sean Engelhart
-       * GitHub username 4: StormCountZero       name 4:Jimmy Forman:
+       * GitHub username 4: StormCountZero       name 4:Jimmy Forman
    * When did you complete this exercise? 
       10/21/2018
    * How long did it take your team to complete this exercise? 
