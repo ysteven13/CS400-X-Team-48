@@ -65,9 +65,25 @@ For a rough idea of the user interface, see Figure 1.
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
+List of Classes:
 
+Tree Class
+
+Node Class (inner class of Tree)
+
+JUnit Test Class
+
+UI/Main Class
 
 Name each interface or class and briefly describe its function or purpose.
+
+Tree Class: 
+
+Node Class:
+
+JUnit Test Class:
+
+UI/Main Class:
 
 
 ## Edit and Submit this file and any figures referenced by this document.
