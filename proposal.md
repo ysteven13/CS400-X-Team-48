@@ -67,17 +67,7 @@ For a rough idea of the user interface, see Figure 1.
 
 List of Classes:
 
-Tree Class
-
-Node Class (inner class of Tree)
-
-JUnit Test Class
-
-UI/Main Class
-
-Name each interface or class and briefly describe its function or purpose.
-
-Tree Class: 
+Tree Class:
 
 Node Class:
 
