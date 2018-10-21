@@ -47,7 +47,15 @@ Our program would produce 3 options to complete a given word, with the shortest 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
-
+The actual auto-complete feature will simply require a user's incomplete word input, so that it can (hopefully) give the correct word.
+Before the user can input words, however, the program will also require a dictionary file so that we know what words are available to autocorrect. A default dictionary will be provided within the program.
+An examplle dictionary file could be a simple text file formatted as such:
+Aardvark
+Ape
+Balloon
+Billiard
+Dictionary
+...
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
