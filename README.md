@@ -14,6 +14,7 @@
    * When did you complete this exercise? 
       10/21/2018
    * How long did it take your team to complete this exercise? 
+       1 Hour 30 Minutes
 
 ## Table of Contents
 
