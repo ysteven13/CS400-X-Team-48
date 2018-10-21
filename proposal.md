@@ -65,13 +65,13 @@ For a rough idea of the user interface, see Figure 1.
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
-Tree Class:
+Tree Class: Contains the skeleton for our Autocomplete function. This is the main data structure we're using as the core of the program.
 
-Node Class:
+Node Class: Contains the skeleton for the nodes used in the tree.
 
-JUnit Test Class:
+JUnit Test Class: Class used for testing each individual part of the program.
 
-UI/Main Class:
+UI/Main Class: Contains a main() method, and also the entire UI for the program. The base dictionary is also uploaded to the tree here.
 
 
 ## Edit and Submit this file and any figures referenced by this document.
