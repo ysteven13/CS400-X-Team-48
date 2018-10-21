@@ -1,4 +1,4 @@
-# X-Team NN Project Proposal
+# X-Team Autocomplete Project Proposal
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -29,13 +29,15 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+Our problem is slow and incorrect typing.
+Our program would implement a tree that contains connections between letters and builds up words as you traverse it. 
+The program would then suggest words to auto-complete the word the user is typing. The program would suggest the 3 shortest words
+that match the user's input.
 
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
-
+Auto-complete
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
