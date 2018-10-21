@@ -40,9 +40,10 @@ that match the user's input.
 Auto-complete
 
 
-2. Output: Describe the output your program will produce.  Include and example format of the output produced.
+2. Output: Describe the output your program will produce.  Include an example format of the output produced.
 
-
+Our program would produce 3 options to complete a given word, with the shortest option being the first.
+[Sample](https://imgur.com/a/CBhtsfa)
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
