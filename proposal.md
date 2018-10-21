@@ -58,7 +58,8 @@ Dictionary
 ...
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-
+The user will type in a textbox and word suggestions will appear beneath it. The user will be able to click on the word to select it. 
+For a rough idea of the user interface, see Figure 1.
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
